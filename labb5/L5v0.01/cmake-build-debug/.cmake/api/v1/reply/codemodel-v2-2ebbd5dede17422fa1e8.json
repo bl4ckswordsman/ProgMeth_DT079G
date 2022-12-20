@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "L5v0_01",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L5v0_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L5v0_01-Debug-c9ba639b28671ec0298b.json",
+					"name" : "L5v0_01",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/amari/OneDrive - Mittuniversitetet/2022-2023/2022-11/DT079G/laborationer/labb5/L5v0.01/cmake-build-debug",
+		"source" : "C:/Users/amari/OneDrive - Mittuniversitetet/2022-2023/2022-11/DT079G/laborationer/labb5/L5v0.01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

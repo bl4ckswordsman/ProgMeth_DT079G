@@ -1,0 +1,11 @@
+# ninja log v5
+8	508	6916852024388182	CMakeFiles/labb2v0_1.dir/Rectangle.cpp.obj	22bdd5afae9a0dfe
+12	480	6916852024028263	CMakeFiles/labb2v0_1.dir/Shape.cpp.obj	f118aaf884ba4269
+449	688	6916903163036500	labb2v0_1.exe	967ae52d49d70a0b
+39	536	6916852024718189	CMakeFiles/labb2v0_1.dir/Cylinder.cpp.obj	76f266d0e2b79152
+4	448	6916903160726500	CMakeFiles/labb2v0_1.dir/RoundedRectangle.cpp.obj	d74dce2308c48a4
+5	1409	6916903047249930	CMakeFiles/labb2v0_1.dir/main.cpp.obj	2afa788898ac5831
+376	718	6916402645319182	CMakeFiles/labb2v0_1.dir/Parallelpiped.cpp.obj	c7a128b02fb9f360
+481	894	6916852028314121	CMakeFiles/labb2v0_1.dir/Circle.cpp.obj	18adf0e055c29cd5
+1	1247	6922902901937154	build.ninja	4ffddf7e5e76bd0f
+24	515	6916852024388182	CMakeFiles/labb2v0_1.dir/Parallelepiped.cpp.obj	833a9d3b0091cdf7

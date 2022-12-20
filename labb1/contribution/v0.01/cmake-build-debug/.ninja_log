@@ -1,0 +1,5 @@
+# ninja log v5
+7	402	6909216323788540	CMakeFiles/labb1.dir/int_sorted.cpp.obj	c32aeed2e1dafd76
+0	439	6909216324158742	CMakeFiles/labb1.dir/int_buffer.cpp.obj	cd00e5f76cdfe25b
+4	525	6909216325008746	CMakeFiles/labb1.dir/main.cpp.obj	56117c8c3d115013
+525	614	6909216325846017	labb1.exe	175802438209d3d9

@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "v0_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "v0_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-v0_1-Debug-6fe723c7371e29f4fe1e.json",
+					"name" : "v0_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/amari/OneDrive - Mittuniversitetet/2022-2023/2022-11/DT079G/laborationer/labb1/v0.2/cmake-build-debug",
+		"source" : "C:/Users/amari/OneDrive - Mittuniversitetet/2022-2023/2022-11/DT079G/laborationer/labb1/v0.2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

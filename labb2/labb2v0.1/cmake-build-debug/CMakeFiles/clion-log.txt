@@ -1,0 +1,4 @@
+C:\Users\amari\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/amari/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe -G Ninja -S "C:\Users\amari\OneDrive - Mittuniversitetet\2022-2023\2022-11\DT079G\laborationer\labb2\labb2v0.1" -B "C:\Users\amari\OneDrive - Mittuniversitetet\2022-2023\2022-11\DT079G\laborationer\labb2\labb2v0.1\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/amari/OneDrive - Mittuniversitetet/2022-2023/2022-11/DT079G/laborationer/labb2/labb2v0.1/cmake-build-debug
